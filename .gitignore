@@ -1,4 +1,3 @@
-fractional_knapsack.exe
-nQueens.exe
 .vscode
-prims_algo.exe
+*.exe
+Greedy_Algorithms/prims_algo.exe
