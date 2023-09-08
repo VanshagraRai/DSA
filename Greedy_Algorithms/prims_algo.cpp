@@ -1,5 +1,7 @@
 /* I will be using Priority queue from STL as it is much easier to implement and understand it
 
+Reference video = G-45. Prim's Algorithm - Minimum Spanning Tree - C++ and Java
+
 vertex = node & vice versa
 
 Note - This code only prints the minimum cost and NOT the mst currently
